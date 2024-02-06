@@ -1,0 +1,8 @@
+# Step 24 - Passed
+## A figure caption (`figcaption`) element is used to add a caption to describe the image contained within the `figure` element. For example, `<figcaption>A cute cat</figcaption>` adds the caption `A cute cat`.
+
+### After the image nested in the `figure` element, add a `figcaption` element with text set to:
+
+```html
+Cats love lasagna.
+```
