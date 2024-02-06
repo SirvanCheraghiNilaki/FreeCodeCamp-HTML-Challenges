@@ -1,0 +1,2 @@
+# Step 33 - Passed
+## It is time to add a new section. Add a third `section` element below the second `section` element.
