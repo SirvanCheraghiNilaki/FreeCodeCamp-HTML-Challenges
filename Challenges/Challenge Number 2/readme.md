@@ -3,4 +3,6 @@
 
 ## Below the ``h1`` element, add an `h2` element with this text:
 
-`Cat Photos`
+```html
+Cat Photos
+```

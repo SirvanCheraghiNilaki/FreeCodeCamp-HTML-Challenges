@@ -5,4 +5,6 @@
 
 ## Find the `<h1>` element and change its text to:
 
-`CatPhotoApp`
+```html
+CatPhotoApp
+```
